@@ -1,5 +1,5 @@
 # SimpleClock
-** A very simple clock with seconds, minutes, and hours using vanilla JS. **
+A simple clock using vanilla JS, with seconds, minutes, and hours hands.
 
 ## Final Product
 
